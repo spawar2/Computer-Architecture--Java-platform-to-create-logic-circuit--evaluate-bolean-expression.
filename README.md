@@ -2,3 +2,4 @@
 Date created/updated: December, 9, 2024.
 SourceCode.java:create truth tables for two input variables.
 selected method(actionPerformed, actionPerformed, addOutput, addInput, mouseClicked, evaluateBoolExpr).
+![download2](https://github.com/user-attachments/assets/e4cbc399-0e44-43af-93dc-c8b0be69b3ef)
